@@ -6,6 +6,7 @@ class BlogSetting {
     String blogTitle
     Integer postsPerPage
     String footerContent
+    String headercontent 
     String scripts
 
     static constraints = {
